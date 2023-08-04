@@ -18,10 +18,14 @@
   
 <p align="center">
   <a href="https://github.com/Nourbensghaier/"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=SOUHA-GH&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUHA-GH&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SOUHA-GH&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUHA-GH&theme=dracula" />
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=
+Nourbensghaier&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=
+Nourbensghaier&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
+Nourbensghaier&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
+Nourbensghaier&theme=dracula" />
     </span></a>
 </p>
   
